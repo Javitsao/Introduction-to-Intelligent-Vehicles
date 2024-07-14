@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/javitsao/Javi/vscode/python_vscode/IIV/hw2/output/hw2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000035AC, symSize: 0xD4 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000035AC, symSize: 0xD4 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: _read_input_file, symObjAddr: 0xD4, symBinAddr: 0x100003680, symSize: 0x148 }
+  - { offsetInCU: 0x110, offset: 0x110, size: 0x8, addend: 0x0, symName: _findworstcase, symObjAddr: 0x21C, symBinAddr: 0x1000037C8, symSize: 0x708 }
+...
