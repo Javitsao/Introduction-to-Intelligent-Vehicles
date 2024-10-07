@@ -53,6 +53,7 @@ This program utilizes Simulated Annealing to optimize message priorities in a Co
     - It then prints a single line indicating the best objective value (lowest total worst-case response time) achieved during the optimization process.
   
 ## Final Project
+### MILP-Based Intelligent vehicle orders scheduling
 
 #### Introduction
 This project addresses the scheduling problem for an intelligent vehicle rental company aiming to maximize profits. We propose a solution using **Mixed-Integer Linear Programming (MILP)** and a **heuristic algorithm** to handle rental orders across various stations with constraints such as car levels, employee working hours, and customer compensation for rejected orders. 
